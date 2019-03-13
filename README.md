@@ -11,6 +11,9 @@ BlondGen is an automated maze generator using random motions with 5 possible act
 # included:
 - All source files (.cc, .hh, .cpp, .h)
 - This README
+- DLLs for SFML
+- Resources
+- Batch file to compile (assuming SFML is installed in your C drive)
 
 # Required
 - SFML-2.4.2 or above https://www.sfml-dev.org
