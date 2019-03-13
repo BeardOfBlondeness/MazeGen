@@ -10,6 +10,7 @@ sf::Event event;
 */
 int main()
 {
+srand(time(0));
     Game g;
     srand(time(0));
     window.setFramerateLimit(60);

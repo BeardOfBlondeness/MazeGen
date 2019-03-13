@@ -16,7 +16,7 @@ private:
   int getCPIndex();
   void randomCP();
   vector<Pointa> usedPointas;
-  const static int mazeSize = 51;
+  const static int mazeSize = 31;
   const int move = 2;
   const int blockSize = 900/mazeSize;
   bool mazeRunning = true;
